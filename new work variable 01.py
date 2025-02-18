@@ -1,6 +1,5 @@
 # empty array type
 number =[]
-
 for i in range(0,5):
   input_number = int(input"Enter number: ")
   number.append(input_number)
@@ -12,7 +11,7 @@ for i in range(0,5):
 
 
 
-# #        # i`m trying to the accet the four number`
+#         # i`m trying to the accet the four number`
 # number_one = int(input("insert the first number"))
 # number_twoe = int(input("insert the second number"))
 # number_three = int(input("insert the third number"))
