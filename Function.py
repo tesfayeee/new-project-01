@@ -9,7 +9,7 @@ def createArray():
         numbers.append(int(values.strip()))
     print(numbers)
     return numbers  # it returns array that has been createted 
- #Initialize index and boolean flag 
+ #Initialize index and boolean flag jjjk
  #  
 def arraySearching(number,arrayName):
     index =0
