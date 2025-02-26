@@ -5,3 +5,4 @@ person_occupation = input('inter your occupation : ')
 print(introduction, ':', person_age,':',  person_address,':', person_occupation)
 
 
+ 
